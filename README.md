@@ -1,6 +1,6 @@
 # PacMan.Java
 
-Um simples jogo do Pac-Man feito com Java e Swing, como parte de meus estudos em desenvolvimento de jogos.
+Um simples jogo do Pac-Man feito com Java e Swing, como parte de meus estudos em programação.
 
 ## Funcionalidades
 
