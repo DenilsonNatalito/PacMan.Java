@@ -1,3 +1,28 @@
+# PacMan.Java
+
+Um simples jogo do Pac-Man feito com Java e Swing, como parte de meus estudos em desenvolvimento de jogos.
+
+## Funcionalidades
+
+- Controle do Pac-Man com o teclado
+- Mapa baseado em array de caracteres
+- Sistema de comida, paredes e fantasmas
+
+## Como rodar
+
+1. Clone o repositório:
+ 
+2. Compile o jogo:
+ 
+3. Execute:
+
+
+## Autor
+
+Denilson Natalito – [@DenilsonNatalito](https://github.com/DenilsonNatalito)
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
